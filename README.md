@@ -6,7 +6,7 @@ Inclusding some hints about design, i chose to do an advert for moving to Switze
 
 <h1> Had to include </h1>
 
-Simple html structure, several levels
-Banner with a title, subtiltle and call to action
-Cards design using Bootstrap responsive grid
-footer with fontawespome logos
+ - Simple html structure, several levels
+ - Banner with a title, subtiltle and call to action
+ - Cards design using Bootstrap responsive grid
+ - footer with fontawespome logos
