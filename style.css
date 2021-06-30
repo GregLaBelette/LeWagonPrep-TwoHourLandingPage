@@ -1,0 +1,108 @@
+
+/* Color palette
+--rajah: #FFB564ff;
+--cadet-blue-crayola: #A4AEB8ff;
+--midnight-green-eagle-green: #034156ff;
+--deep-taupe: #725D59ff;
+--light-gray: #CFCFD0ff;
+*/
+
+body {
+	background-image: url("images/back.jpeg");
+	background-size: cover;
+	background-position: center;
+	color: rgba(207,207,208,1) ;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100;
+	text-align: center;
+	font-size: 2vmin;
+}
+
+#banner {
+padding-top: 20vmin;
+padding-bottom: 5vmin;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	font-size: 500%;
+	letter-spacing: 0.25em;
+	line-height: 1.1em;
+	margin: 0;
+}
+
+h2 {
+	color: rgba(255,181,100,1);
+	font-size: 110%;
+}
+
+#caption {
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-size: 150%;
+	line-height: 1.3em;
+	padding-left: 10vmin;
+	padding-right: 10vmin;
+}
+
+button, input {
+	font-family: 'Raleway', sans-serif;
+	font-size: 90%;
+	border-radius: 5px;
+	margin: 2vmin;
+	border: none;
+}
+
+button {
+	padding:  2vmin;
+	background-color: rgba(255,81,100,1);
+	color: black;
+}
+
+button:hover {
+	background-color: rgba(255,181,100,1);	
+}
+
+input {
+	width: 40vmin;
+	text-align: center;
+	color: rgba(29, 59, 71, 1.0);
+	background-color: rgba(207, 207, 208, 1.0);
+}
+
+a, a:visited {
+	text-decoration: none;
+	color: rgba(255,81,100,1);
+}
+
+a:hover {
+	color: rgba(255,181,100,1);
+	text-decoration: none;
+}
+
+footer {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 80%;
+	color: rgba(164, 174, 184, 1);
+	padding-bottom: 1vmin;
+}
+
+#menu {
+	padding-bottom: 5vmin;
+}
+
+.section {
+	padding: 2vmin;
+}
+
+.inner {
+	padding: 2vmin;
+	background-color: rgba(9, 13, 17, 0.7);
+	border-radius: 5px;
+	height: 100%;
+}
+
+.logo {
+	width: 10vmin;
+}
