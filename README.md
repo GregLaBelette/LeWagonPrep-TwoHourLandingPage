@@ -1,3 +1,5 @@
+Github pages <a href='https://greglabelette.github.io/LeWagonPrep-TwoHourLandingPage/'>here</a>
+
 Completing pre-work before full-time web developpement course @ Le Wagon Paris.
 
 "Discovering" html, css & the Bootstrap grid Features by doing a two-hour static webpage-exercise.
